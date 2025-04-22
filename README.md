@@ -1,2 +1,2 @@
 # Quantos livros você lê por ano?
-Pesquisa estatística publicada aqui apenas para ser hospedada pelo Github Pages.
+Trabalho de pesquisa estatística publicado aqui apenas para ser hospedado pelo Github Pages.
